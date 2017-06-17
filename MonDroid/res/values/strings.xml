@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Saeed</string>
+    <string android:id="@+id/string1" android:layout_height="wrap_content" android:layout_width="wrap_content" name="message_edit_text">Enter a Message</string>
+    <string android:id="@+id/string1" android:layout_height="wrap_content" android:layout_width="wrap_content" name="send_button">Send</string>
+    <string android:layout_height="wrap_content" android:id="@+id/string1" android:layout_width="wrap_content" name="drawable_image_view">Drawable Animation</string>
+    <string name="functions_text_view">Functions Text View</string>
+    <string name="wifi_state">Wifi State</string>
+    <string name="visit_google">Visit Google Web Page</string>
+    <string name="received_message">Received Message</string>
+    <string name="functions_image_view">Functions Image View</string>
+    <string android:layout_width="wrap_content" android:id="@+id/string1" android:layout_height="wrap_content" name="tween_image_view">Tween Animation</string>
+    <string android:layout_width="wrap_content" android:id="@+id/string1" android:layout_height="wrap_content" name="setting">Setting</string>
+    <string android:layout_height="wrap_content" android:id="@+id/string1" android:layout_width="wrap_content" name="about">About</string>
+    <string name="setting_menu_text_view">This Is Setting Menu</string>
+    <string name="about_menu_text_view">Developed By Saeed Ghodsi ;-)</string>
+    <string android:id="@+id/string1" android:layout_width="wrap_content" android:layout_height="wrap_content" name="test_permissions">Test Permissions</string>
+    <string android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/string1" name="test_animation">Test Animation</string>
+    <string android:id="@+id/string1" android:layout_height="wrap_content" android:layout_width="wrap_content" name="test_intents">Test Intents</string>
+    <string name="show_message">Show Message</string>
+    
+</resources>

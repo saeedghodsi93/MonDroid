@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="functions">
+		<item name="intents    ">Intents</item>
+		<item name="permissions">Permissions</item>
+		<item name="animation  ">Animation</item>
+	</string-array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light">
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+    
+    <style name="saeedTheme" parent="@android:style/Theme.Holo" >
+        <item name="@android:textSize">25sp</item>
+	    <item name="@android:textColor">#FFFFFF</item>
+	</style>
+	
+    <style name="saeedTheme.Dialog" parent="@android:style/Theme.Holo.Dialog" >
+        <item name="@android:textSize">25sp</item>
+	    <item name="@android:textColor">#FFFFFF</item>
+	</style>
+	
+	
+</resources>

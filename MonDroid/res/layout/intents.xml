@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <EditText
+        android:id="@+id/message_edit_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/send_button"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="25dp"
+        android:layout_toLeftOf="@+id/send_button"
+        android:ems="10"
+        android:inputType="text"
+        android:text="@string/message_edit_text" />
+
+    <Button
+        android:id="@+id/send_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="25dp"
+        android:text="@string/send_button" />
+
+    <Button
+        android:id="@+id/visit_web_page_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/message_edit_text"
+        android:layout_below="@+id/message_edit_text"
+        android:layout_marginTop="25dp"
+        android:text="@string/visit_google" />
+
+    <TextView
+        android:id="@+id/web_page_url"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/message_edit_text"
+        android:layout_below="@+id/visit_web_page_button"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="25dp" />
+	
+</RelativeLayout>
