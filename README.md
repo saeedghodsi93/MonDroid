@@ -1,3 +1,3 @@
-# MonDroid
+# MonDroid (an alternative for the Zenoss RhyBudd app)
 
-Android application for monitoring the datacenter environmental parameters (an alternative for the Zenoss RhyBudd app). This application has been written based on Java and MySQL.
+Android application for monitoring the datacenter environmental parameters. This application has been written based on Java and MySQL.
